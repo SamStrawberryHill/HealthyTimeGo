@@ -17,7 +17,7 @@ title: Healthy Time Go!
 email: samhill5643@gmail.com
 description: Healthy Recipes and Meal Planinng
 baseurl: "/healthytimego" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://127.0.0.1:4000/healthytimego/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:  SamStrawberryHill
 
